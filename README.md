@@ -1,5 +1,7 @@
-<img src="https://i.ytimg.com/vi/1d5IKB0fT50/mqdefault.jpg"/>
-
+<p align="center">
+<img src="https://i.ytimg.com/vi/1d5IKB0fT50/mqdefault.jpg"/> 
+<img src="https://i.ibb.co/0JQvWFM/gacor-kang.jpg"/>
+</p>
 # GACOR KANG (Beta)
 
 Judi online page hunter on your server
